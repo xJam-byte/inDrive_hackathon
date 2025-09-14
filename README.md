@@ -248,5 +248,5 @@ ML role (current and next)
 
 ## CODE LICENSE
 
-- Code: MIT (or specify another OSI license if required).
+- Code: MIT.
 - Data: see "Data licenses and privacy" section above.
