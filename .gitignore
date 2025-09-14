@@ -1,0 +1,18 @@
+# Node
+node_modules/
+dist/
+.vite/
+*.log
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Data artifacts (опционально: закомментируй, если хочешь коммитить json/geojson)
+# backend/data/*.geojson backend/data/*.json
